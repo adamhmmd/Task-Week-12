@@ -1,0 +1,29 @@
+.square {
+	border: 1px solid grey;
+	width: 100px;
+	height: 100px;
+}
+
+.container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+.tombol {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+} 
+
+.status {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
